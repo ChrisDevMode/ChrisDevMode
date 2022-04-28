@@ -24,7 +24,7 @@ const chrisGitHub = async () => {
     adviceGoodNews(true, 'Here we go! 🚀');
     return;
   }
-  return adviceGoodNews(false, 'satill updating... 😅');
+  return adviceGoodNews(false, 'still updating... 😅');
 };
 ```
 
